@@ -3,7 +3,21 @@
 <div align="center">
  <img src="./assets/conesep-logo.png" width="600"> 
   <h1>(CVPR 2026) ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval</h1>
-  
+
+  <div>
+  <a target="_blank" href="https://lee-zixu.github.io/">Zixu&#160;Li</a><sup>1</sup>,
+  <a target="_blank" href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng&#160;Hu</a><sup>1&#9993</sup>,
+  <a target="_blank" href="https://zivchen-ty.github.io/">Zhiwei&#160;Chen</a><sup>1</sup>,
+  <a target="_blank" href="https://zh-mingyu.github.io/">Mingyu&#160;Zhang</a><sup>1</sup>,
+  <a target="_blank" href="https://zhihfu.github.io/">Zhiheng&#160;Fu</a><sup>1</sup>,
+  <a target="_blank" href="https://liqiangnie.github.io">Liqiang&#160;Nie</a><sup>2</sup>
+  </div>
+  <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>  <br>
+ <sup>2</sup>School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), &#160&#160&#160</span> 
+  <br />
+  <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+  <br/>
+
   <p>
       <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
       <a href=""><img alt='Paper' src="https://img.shields.io/badge/Paper-CVPR.Coming_Soon-green.svg"></a>
@@ -17,7 +31,6 @@
   <p>
     <b>Official Repository:</b> A Cone-based robust noise-unlearning network addressing the Noisy Triplet Correspondence (NTC) problem in Composed Image Retrieval (CIR).
   </p>
-  <b> We will release full codes soon! Please Stay Tuned!</b>
 </div>
 
 
@@ -30,6 +43,8 @@
 [⬆ Back to top](#top)
 
 ## 📢 News
+* **[2026-04-03]** 🚀 Release all codes of ConeSep!
+
 * **[2026-02-21]** 🔥 The paper *"ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval"* has been accepted by **CVPR 2026**!.
 
 [⬆ Back to top](#top)
