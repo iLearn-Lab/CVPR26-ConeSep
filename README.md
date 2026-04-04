@@ -318,6 +318,8 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39507" target="_blank">Paper</a>
       </span>
     </td>
+      </tr>
+  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/intent-logo.png" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>INTENT (AAAI'26)</b><br>
@@ -327,8 +329,6 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39181" target="_blank">Paper</a>
       </span>
     </td>  
-    </tr>
-  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/hud-logo.png" alt="HUD" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>HUD (ACM MM'25)</b><br>
@@ -347,6 +347,8 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
         <a href="https://dl.acm.org/doi/10.1145/3746027.3755366" target="_blank">Paper</a>
       </span>
     </td>
+      </tr>
+  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/encoder-logo.png" alt="ENCODER" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ENCODER (AAAI'25)</b><br>
